@@ -12,4 +12,4 @@ Problems include:
  * Is subset problem
  * BST problems - insertion, deletion, travel, hasPath, mirror, doubleTree, maxUniLabel, IsSameTree, diameter, height, mininum value node
  * Heap
- * MST
+ * MST using Prim's algorithm
